@@ -6,7 +6,7 @@ The dataset used in this project is the TESS Toronto Emotional Speech Set data. 
 
 ## Dataset link - https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
 
-## Streamlit WeBApp
+## Streamlit WebApp Result
 
 
 ![speech_again](https://user-images.githubusercontent.com/66298494/233813632-0c9f6551-7077-48c9-95f1-ff963db29162.png)
@@ -16,20 +16,32 @@ The dataset used in this project is the TESS Toronto Emotional Speech Set data. 
 This project requires the following libraries to be installed:
 
 os
+
 numpy
+
 pandas
+
 seaborn
+
 librosa
+
 matplotlib
+
 IPython
+
 keras
+
 scikit-learn
 
 
 ## Usage
 
 Step 1 - Clone the repository
+
 Step 2 - Download the dataset and extract the zip file into the project directory.
+
 Step 3 - Open Speech Recognition LSTM.ipynb in Jupyter Notebook or any other compatible software.
+
 Step 4 - Run the notebook cell by cell to perform data exploration, feature extraction, model training, and testing.
+
 Step 5 - The pretrained model is saved as speech_recognition_model.h5, which can be loaded and used for predictions.
