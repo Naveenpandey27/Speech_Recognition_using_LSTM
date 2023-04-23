@@ -3,4 +3,7 @@ Speech recognition using LSTM is a project that involves using deep learning tec
 
 ## Dataset link - https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
 
-## output: ![speech](https://user-images.githubusercontent.com/66298494/233813579-2b9ad28e-d53e-4ef1-986f-26a82c187d06.png)
+## Streamlit WeBApp
+
+
+![speech_again](https://user-images.githubusercontent.com/66298494/233813632-0c9f6551-7077-48c9-95f1-ff963db29162.png)
